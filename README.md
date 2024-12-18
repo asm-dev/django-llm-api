@@ -17,4 +17,11 @@ Este proyecto implementa un servicio capaz de generar respuestas a las preguntas
 
 ## Pruebas de uso
 
+*Realizamos una request POST al endpoint usando RapidAPI*:
+
 ![image](https://github.com/user-attachments/assets/41403e1b-8a8f-483f-9405-62de20c24fdd)
+
+*Comprobamos que la información se almacena correctamente en la base de datos*:
+
+![image](https://github.com/user-attachments/assets/3f87ffa0-1d15-4e76-b120-47f5c11b686b)
+
